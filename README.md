@@ -1,4 +1,4 @@
-# Cse_445_group-9 (sec:03)
+# CSE445.3 Group-9
 # Detect Stop Signs In The Steet Images Using Machine Learning
 # Group Members:
 # Md Shariful Islam Sakib (2011716042)
