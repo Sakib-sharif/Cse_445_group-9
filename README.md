@@ -1,5 +1,5 @@
 # CSE445.3 Group-9
-# Detect Stop Signs In The Steet Images Using Machine Learning
+# Detect Stop Signs In The Street Images Using Machine Learning
 # Group Members:
 # Md Shariful Islam Sakib (2011716042)
 # Ismot jahan moni (2112399642)
