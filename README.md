@@ -22,7 +22,7 @@ This project is designed to detect stop signs from street-level images using mac
 
 ##👥 Authors
 
-Md Shariful Islam Sakib – (2011716042)
-Ismot Jahan Moni – (2112399642)
-Muhammad Imam Hassan – (2013362042)
-Iktear Alam – (2111577642)
+##Md Shariful Islam Sakib – (2011716042)
+##Ismot Jahan Moni – (2112399642)
+##Muhammad Imam Hassan – (2013362042)
+##Iktear Alam – (2111577642)
